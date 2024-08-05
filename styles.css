@@ -1,0 +1,20 @@
+.folder {
+    cursor: pointer;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid rebeccapurple;
+    width: 250px;
+}
+
+.file-list {
+    margin-top: 20px;
+}
+
+.file-list li {
+    padding: 5px;
+    border-bottom: 1px solid rebeccapurple;
+}
+#sort-toggle{
+    background: #7cb33b;
+    
+}
